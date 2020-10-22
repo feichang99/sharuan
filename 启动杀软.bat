@@ -1,0 +1,1 @@
+regedit.exe /s E:\É±Èí\shadu2.reg
